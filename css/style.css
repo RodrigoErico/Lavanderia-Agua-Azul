@@ -69,7 +69,7 @@ body{
 .title {
     font-size: 4rem;
     font-family: 'Concert One', cursive;
-    margin-top: 2rem;
+    margin: 2rem .5rem 0 5rem;
     text-transform: uppercase;
     color: rgba(79, 172, 254, 0.774);
     
