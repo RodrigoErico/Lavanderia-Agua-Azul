@@ -83,13 +83,13 @@ body{
 }
 
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 800px) {
     .container {
         max-width: 70rem;
     }
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 400px) {
     .container {
         padding: 2.4rem;
         flex-direction: column;
